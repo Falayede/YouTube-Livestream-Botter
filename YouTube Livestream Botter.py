@@ -16,7 +16,7 @@ intro = """
 ███████║   ██║   ██║  ██║███████╗██║  ██║██║ ╚═╝ ██║      ██████╔╝╚██████╔╝   ██║      ██║   ███████╗██║  ██║
 ╚══════╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝      ╚═════╝  ╚═════╝    ╚═╝      ╚═╝   ╚══════╝╚═╝  ╚═╝
 
-https://github.com/KevinLage/YouTube-Livestream-Botter
+https://youtbe.com/UCy5zP1O5ON5gkJPTefN_uig/YouTube-Livestream-Botter
 """
 
 print(intro)
